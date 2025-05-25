@@ -14,12 +14,12 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedasri-varsha&amp;label=Profile%20views&amp;color=0e75b6&amp;style=plastic" alt="vedasri-varsha">
+  <img src="https://komarev.com/ghpvc/?username=veda-sri-varsha&amp;label=Profile%20views&amp;color=0e75b6&amp;style=plastic" alt="veda-sri-varsha">
 </p>
 
 <h2 align="center">🔥 GitHub Streak Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedasri-varsha&amp;theme=algolia" alt="vedasri-varsha">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veda-sri-varsha&amp;theme=algolia" alt="veda-sri-varsha">
 </p>
 
 <h2>🛠️ My Skills</h2>
@@ -72,8 +72,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <img alt="Vedasri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vedasri-varsha&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px">
+    <img alt="Vedasri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veda-sri-varsha&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedasri-varsha&amp;layout=compact&amp;theme=algolia" height="192px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veda-sri-varsha&amp;layout=compact&amp;theme=algolia" height="192px">
   </p>
 </details>
